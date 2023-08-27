@@ -1,1 +1,1 @@
-# This a Project File with code and a json file which contains password
+# This a Mini Project Repository with code and a json file which contains password
